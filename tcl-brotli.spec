@@ -7,7 +7,7 @@
 Name:           tcl-brotli
 Version:        1.0
 Release:        0
-License:        BSD
+License:        BSD-3-Clause
 Summary:        Brotli (de)compressor objects for Tcl
 Url:            https://wiki.tcl.tk/48939
 Group:          Development/Libraries/Tcl
